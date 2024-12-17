@@ -1,0 +1,17 @@
+{
+  "name": "week-4-intro-to-express-ccyoung22",
+  "version": "1.0.0",
+  "description": "## Part 1: Installing Express On Your Node Project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
